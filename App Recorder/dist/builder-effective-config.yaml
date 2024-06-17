@@ -1,0 +1,6 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.progrbr.recorder
+files: []
+electronVersion: 30.0.6
